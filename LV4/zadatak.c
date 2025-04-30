@@ -96,7 +96,7 @@ void postOrder(slovo* root) {
 }
 
 int main() {
-    char ime_prez[] = { 'P','E','T','R','A','P','E','R','K','O','V','I','C','\0' };
+    char ime_prez[] = { 'I','V','A','N','A','L','J','U','B','A','S','\0' };
     for (int i = 0; ime_prez[i] != '\0'; i++) {
         dodaj_p(ime_prez[i]);
     }
